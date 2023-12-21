@@ -35,3 +35,7 @@ To deploy your app, use:
 # npm run build
 Deployment
 For information on deploying your application, please refer to the deployment section.
+
+
+#Live Link
+https://658480fb58d63a29ea20bac9--visionary-taiyaki-822603.netlify.app/
